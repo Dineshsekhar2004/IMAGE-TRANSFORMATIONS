@@ -32,8 +32,8 @@ Save or display the final transformed images for analysis and use plt.show() to 
 
 ## Program:
 ```python
-Developed By:Karthikeyan R
-Register Number:212222240045
+Developed By:DINESH S
+Register Number:212222230033
 i)Image Translation
 import cv2
 import numpy as np
